@@ -1,0 +1,6 @@
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\appsettings.Development.json
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\appsettings.json
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\SimpleServiceForDeploymentSlots.dll
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\SimpleServiceForDeploymentSlots.deps.json
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\SimpleServiceForDeploymentSlots.runtimeconfig.json
+c:\20487D\AllFiles\Mod06\DemoFiles\SimpleServiceForDeploymentSlots\bin\Release\netcoreapp2.1\publish\SimpleServiceForDeploymentSlots.pdb
